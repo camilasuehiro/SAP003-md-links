@@ -2,7 +2,7 @@
   "name": "md-links",
   "version": "1.0.0",
   "description": "## Índice",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest --coverage"
   },
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/camilasuehiro/SAP003-md-links#readme",
   "bin": {
-    "md-links": "./lib/cli.js"
+    "md-links": "./cli.js"
   },
   "devDependencies": {
     "jest": "^24.9.0",
